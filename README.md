@@ -1,4 +1,4 @@
-### Python Flask GTP4ALL powered websocket chat client
+### Python Flask GTP4ALL powered websocket chat server
 
 - define port and host in .env
 - for docker usage may need to adjust example.Dockerfile and example.compose.yml 
